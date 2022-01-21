@@ -11,7 +11,7 @@
     <img src="https://clipartcraft.com/images/html5-logo-psd-3.png" width="115">
     <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" width="70">
     <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png" width="70">
-    <img src="https://pngimg.com/uploads/php/php_PNG21.png" width="110">
+    <img src="https://user-images.githubusercontent.com/78273896/150613558-a5fc48ed-4375-4bc9-a01e-c76587c063b7.png" width="110">
     </p>
   </div>
   <h2>Stats</h2>
