@@ -17,6 +17,6 @@
   <h2>Stats</h2>
   
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stane034&theme=dark&layout=compact&show_icons=true)]    
+<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stane034&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&&langs_count=8&theme=react"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stane034&show_icons=true&theme=radical"/>
 </div>
