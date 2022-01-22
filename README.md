@@ -18,5 +18,5 @@
   
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stane034&theme=dark&layout=compact&show_icons=true)]    
-  [![Stane's Github stats](https://github-readme-stats.vercel.app/api?username=Stane034&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Stane034&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&&langs_count=8&theme=react"/>  
 </div>
